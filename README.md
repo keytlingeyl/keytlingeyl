@@ -20,17 +20,14 @@ I'm a passionate and creative developer who brings designs to life on the web, b
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+# 📄 Badges & Certifications :
 <a href="https://www.credly.com/badges/7fba1f53-01e9-4a73-a34c-4ae6461e56fc/public_url">
   <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="100"/>
 </a>
-
-# 📊 GitHub Stats:
-[![Caitlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=keytlingeyl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keytlingeyl&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keytlingeyl&layout=compact&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keytlingeyl&layout=compact&theme=custom&bg_color=3b2b26&title_color=f5be80&text_color=fbecdd&icon_color=d9a066)
+<a href="https://www.sololearn.com/certificates/CC-IQENSWOU">
+  <img src="https://api2.sololearn.com/v2/certificates/CC-IQENSWOU/image/jpg?t=639109796724301350" width="150"/>
+</a>
 
 <!-- STORAGE FOR LATER USE
 ![Profile Views](https://komarev.com/ghpvc/?username=keytlingeyl&label=Profile%20views&color=f5be80&labelColor=9f6b53&style=flat)
