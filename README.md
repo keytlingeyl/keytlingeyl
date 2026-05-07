@@ -20,7 +20,14 @@ I'm a passionate and creative developer who brings designs to life on the web, b
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<a href="https://www.credly.com/badges/7fba1f53-01e9-4a73-a34c-4ae6461e56fc/public_url">
+  <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="150"/>
+</a>
+
 # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keytlingeyl&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keytlingeyl&layout=compact&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keytlingeyl&layout=compact&theme=custom&bg_color=3b2b26&title_color=f5be80&text_color=fbecdd&icon_color=d9a066)
 
 <!-- STORAGE FOR LATER USE
